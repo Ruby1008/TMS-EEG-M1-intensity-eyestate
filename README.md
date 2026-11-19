@@ -191,6 +191,10 @@ The numbers in the file names (e.g. `figS2_`, `oldS7`, `S14`) are earlier figure
 - **Optional and not used in the main run:** `epochs_from_e.m`, called by `preprocess_tep.m` only with the option `fromE`.
 - **Other files:** electrode positions (`waveguard64_woRef.ced`, read from `data_dir`) are a data file and are not included.
 
+## Code development
+
+The scripts in this repository were written with the assistance of an AI coding assistant (Claude, Anthropic) and reviewed by the authors.
+
 ## Data availability
 
 The data are not publicly available due to ethical restrictions on participant privacy. De-identified data are available from the corresponding author (Chi-Hung Juan, chijuan@cc.ncu.edu.tw) on reasonable request, subject to approval by the Ethics Committee of National Taiwan University (201910EM003).
