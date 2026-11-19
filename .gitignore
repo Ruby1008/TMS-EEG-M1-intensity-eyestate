@@ -1,0 +1,18 @@
+# data and output files (never commit participant data)
+*.mat
+*.set
+*.fdt
+*.edf
+*.cnt
+*.eeg
+*.vhdr
+*.acq
+*.csv
+*.xlsx
+*.tif
+*.tiff
+*.png
+*.pdf
+*.npz
+outputs/
+data/
